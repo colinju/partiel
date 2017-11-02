@@ -1,0 +1,16 @@
+c:\users\alexa\Source\Repos\BankTranfertLibrary\BankTransfertLibraryTest\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+c:\users\alexa\Source\Repos\BankTranfertLibrary\BankTransfertLibraryTest\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+c:\users\alexa\Source\Repos\BankTranfertLibrary\BankTransfertLibraryTest\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+c:\users\alexa\Source\Repos\BankTranfertLibrary\BankTransfertLibraryTest\bin\Debug\netcoreapp2.0\BankTransfertLibraryTest.deps.json
+c:\users\alexa\Source\Repos\BankTranfertLibrary\BankTransfertLibraryTest\bin\Debug\netcoreapp2.0\BankTransfertLibraryTest.runtimeconfig.json
+c:\users\alexa\Source\Repos\BankTranfertLibrary\BankTransfertLibraryTest\bin\Debug\netcoreapp2.0\BankTransfertLibraryTest.runtimeconfig.dev.json
+c:\users\alexa\Source\Repos\BankTranfertLibrary\BankTransfertLibraryTest\bin\Debug\netcoreapp2.0\BankTransfertLibraryTest.dll
+c:\users\alexa\Source\Repos\BankTranfertLibrary\BankTransfertLibraryTest\bin\Debug\netcoreapp2.0\BankTransfertLibraryTest.pdb
+c:\users\alexa\Source\Repos\BankTranfertLibrary\BankTransfertLibraryTest\bin\Debug\netcoreapp2.0\BankTranfertLibrary.dll
+c:\users\alexa\Source\Repos\BankTranfertLibrary\BankTransfertLibraryTest\bin\Debug\netcoreapp2.0\BankTranfertLibrary.pdb
+c:\users\alexa\Source\Repos\BankTranfertLibrary\BankTransfertLibraryTest\obj\Debug\netcoreapp2.0\BankTransfertLibraryTest.csprojResolveAssemblyReference.cache
+c:\users\alexa\Source\Repos\BankTranfertLibrary\BankTransfertLibraryTest\obj\Debug\netcoreapp2.0\BankTransfertLibraryTest.csproj.CoreCompileInputs.cache
+c:\users\alexa\Source\Repos\BankTranfertLibrary\BankTransfertLibraryTest\obj\Debug\netcoreapp2.0\BankTransfertLibraryTest.AssemblyInfoInputs.cache
+c:\users\alexa\Source\Repos\BankTranfertLibrary\BankTransfertLibraryTest\obj\Debug\netcoreapp2.0\BankTransfertLibraryTest.AssemblyInfo.cs
+c:\users\alexa\Source\Repos\BankTranfertLibrary\BankTransfertLibraryTest\obj\Debug\netcoreapp2.0\BankTransfertLibraryTest.dll
+c:\users\alexa\Source\Repos\BankTranfertLibrary\BankTransfertLibraryTest\obj\Debug\netcoreapp2.0\BankTransfertLibraryTest.pdb

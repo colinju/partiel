@@ -1,0 +1,9 @@
+c:\users\alexa\Source\Repos\BankTranfertLibrary\BankTranfertLibrary\bin\Debug\netcoreapp2.0\BankTranfertLibrary.deps.json
+c:\users\alexa\Source\Repos\BankTranfertLibrary\BankTranfertLibrary\bin\Debug\netcoreapp2.0\BankTranfertLibrary.dll
+c:\users\alexa\Source\Repos\BankTranfertLibrary\BankTranfertLibrary\bin\Debug\netcoreapp2.0\BankTranfertLibrary.pdb
+c:\users\alexa\Source\Repos\BankTranfertLibrary\BankTranfertLibrary\obj\Debug\netcoreapp2.0\BankTranfertLibrary.csprojResolveAssemblyReference.cache
+c:\users\alexa\Source\Repos\BankTranfertLibrary\BankTranfertLibrary\obj\Debug\netcoreapp2.0\BankTranfertLibrary.csproj.CoreCompileInputs.cache
+c:\users\alexa\Source\Repos\BankTranfertLibrary\BankTranfertLibrary\obj\Debug\netcoreapp2.0\BankTranfertLibrary.AssemblyInfoInputs.cache
+c:\users\alexa\Source\Repos\BankTranfertLibrary\BankTranfertLibrary\obj\Debug\netcoreapp2.0\BankTranfertLibrary.AssemblyInfo.cs
+c:\users\alexa\Source\Repos\BankTranfertLibrary\BankTranfertLibrary\obj\Debug\netcoreapp2.0\BankTranfertLibrary.dll
+c:\users\alexa\Source\Repos\BankTranfertLibrary\BankTranfertLibrary\obj\Debug\netcoreapp2.0\BankTranfertLibrary.pdb
