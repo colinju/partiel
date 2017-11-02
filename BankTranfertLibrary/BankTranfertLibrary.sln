@@ -3,9 +3,14 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27004.2005
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BankTranfertLibrary", "BankTranfertLibrary\BankTranfertLibrary.csproj", "{171CE9AE-181A-42C7-8E1A-D9CE9A47E78E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BankTranfertLibrary", "BankTranfertLibrary\BankTranfertLibrary.csproj", "{171CE9AE-181A-42C7-8E1A-D9CE9A47E78E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BankTransfertLibraryTest", "BankTransfertLibraryTest\BankTransfertLibraryTest.csproj", "{DE1217B8-6155-4504-BB10-B666141D8E46}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BankTransfertLibraryTest", "BankTransfertLibraryTest\BankTransfertLibraryTest.csproj", "{DE1217B8-6155-4504-BB10-B666141D8E46}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{A100F1E3-CA68-48FC-BDA0-6A4D77D52528}"
+	ProjectSection(SolutionItems) = preProject
+		.travis.yml = .travis.yml
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
