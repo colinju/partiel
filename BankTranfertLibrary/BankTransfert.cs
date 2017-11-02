@@ -27,8 +27,6 @@ namespace BankTranfertLibrary
                 throw new ArgumentNullException("Incorrect iban");
             }
 
-            
-
             var hasTransfered = EmulateTransfert(amount, fromBankIban, toBankIban);
 
             if (!hasTransfered)
@@ -36,7 +34,6 @@ namespace BankTranfertLibrary
                 TXTLogger.Log(Severity.Error, "Transfert interrupted");
                 throw new InvalidOperationException();
             }
-
 
             CSVLogger.LogTransaction(transactionId, amount, fromBankIban, toBankIban);
 
