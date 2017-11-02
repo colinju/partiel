@@ -115,7 +115,30 @@ namespace BankTransfertLibraryTest
         }
 
         [TestMethod]
-        public void TestLogCSV()
+        public void TestLogtransactionTxt()
+        {
+            //Arrange
+            var logger = new LoggerTxt();
+            var title = $"Transction_{ DateTime.Now.ToString("dd_MM_yy")}.txt";
+
+            //Act
+            Assert.ThrowsException<NotImplementedException>(() => logger.LogTransaction(1,10,"123","321"));
+        }
+
+        [TestMethod]
+        public void TestLogCsv()
+        {
+            //Arrange
+            var logger = new LoggerCsv();
+            var title = $"Logs_{ DateTime.Now.ToString("dd_MM_yy")}.csv";
+
+            //Act
+            Assert.ThrowsException<NotImplementedException>(() => logger.Log(Severity.Info, "log de test"));
+        }
+
+
+        [TestMethod]
+        public void TestLogTransactionCSV()
         {
             //Arrange
             var logger = new LoggerCsv();
