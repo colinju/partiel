@@ -31,3 +31,12 @@ Error - Both IBAN should have a value
 Error - Incorrect iban
 Error - Incorrect iban
 Info - log de test
+Error - Both IBAN should have a value
+Error - Both IBAN should have a value
+Error - Incorrect iban
+Error - Incorrect iban
+Error - Both IBAN should have a value
+Error - Both IBAN should have a value
+Error - Incorrect iban
+Error - Incorrect iban
+Info - log de test

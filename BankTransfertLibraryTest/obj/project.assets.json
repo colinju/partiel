@@ -5646,11 +5646,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\julien\\Desktop\\BankTransfert\\BankTranfertLibrary\\BankTransfertLibraryTest\\BankTransfertLibraryTest.csproj",
+      "projectUniqueName": "C:\\Users\\julien\\Desktop\\BankTransfert\\BankTransfertLibraryTest\\BankTransfertLibraryTest.csproj",
       "projectName": "BankTransfertLibraryTest",
-      "projectPath": "C:\\Users\\julien\\Desktop\\BankTransfert\\BankTranfertLibrary\\BankTransfertLibraryTest\\BankTransfertLibraryTest.csproj",
+      "projectPath": "C:\\Users\\julien\\Desktop\\BankTransfert\\BankTransfertLibraryTest\\BankTransfertLibraryTest.csproj",
       "packagesPath": "C:\\Users\\julien\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\julien\\Desktop\\BankTransfert\\BankTranfertLibrary\\BankTransfertLibraryTest\\obj\\",
+      "outputPath": "C:\\Users\\julien\\Desktop\\BankTransfert\\BankTransfertLibraryTest\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -5669,8 +5669,8 @@
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "C:\\Users\\julien\\Desktop\\BankTransfert\\BankTranfertLibrary\\BankTranfertLibrary\\BankTranfertLibrary.csproj": {
-              "projectPath": "C:\\Users\\julien\\Desktop\\BankTransfert\\BankTranfertLibrary\\BankTranfertLibrary\\BankTranfertLibrary.csproj"
+            "C:\\Users\\julien\\Desktop\\BankTransfert\\BankTranfertLibrary\\BankTranfertLibrary.csproj": {
+              "projectPath": "C:\\Users\\julien\\Desktop\\BankTransfert\\BankTranfertLibrary\\BankTranfertLibrary.csproj"
             }
           }
         }

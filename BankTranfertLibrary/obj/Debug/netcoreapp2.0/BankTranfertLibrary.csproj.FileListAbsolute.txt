@@ -16,3 +16,12 @@ C:\Users\julien\Desktop\BankTransfert\BankTranfertLibrary\BankTranfertLibrary\ob
 C:\Users\julien\Desktop\BankTransfert\BankTranfertLibrary\BankTranfertLibrary\bin\Debug\netcoreapp2.0\BankTranfertLibrary.deps.json
 C:\Users\julien\Desktop\BankTransfert\BankTranfertLibrary\BankTranfertLibrary\bin\Debug\netcoreapp2.0\BankTranfertLibrary.dll
 C:\Users\julien\Desktop\BankTransfert\BankTranfertLibrary\BankTranfertLibrary\bin\Debug\netcoreapp2.0\BankTranfertLibrary.pdb
+C:\Users\julien\Desktop\BankTransfert\BankTranfertLibrary\bin\Debug\netcoreapp2.0\BankTranfertLibrary.deps.json
+C:\Users\julien\Desktop\BankTransfert\BankTranfertLibrary\bin\Debug\netcoreapp2.0\BankTranfertLibrary.dll
+C:\Users\julien\Desktop\BankTransfert\BankTranfertLibrary\bin\Debug\netcoreapp2.0\BankTranfertLibrary.pdb
+C:\Users\julien\Desktop\BankTransfert\BankTranfertLibrary\obj\Debug\netcoreapp2.0\BankTranfertLibrary.csprojResolveAssemblyReference.cache
+C:\Users\julien\Desktop\BankTransfert\BankTranfertLibrary\obj\Debug\netcoreapp2.0\BankTranfertLibrary.csproj.CoreCompileInputs.cache
+C:\Users\julien\Desktop\BankTransfert\BankTranfertLibrary\obj\Debug\netcoreapp2.0\BankTranfertLibrary.AssemblyInfoInputs.cache
+C:\Users\julien\Desktop\BankTransfert\BankTranfertLibrary\obj\Debug\netcoreapp2.0\BankTranfertLibrary.AssemblyInfo.cs
+C:\Users\julien\Desktop\BankTransfert\BankTranfertLibrary\obj\Debug\netcoreapp2.0\BankTranfertLibrary.dll
+C:\Users\julien\Desktop\BankTransfert\BankTranfertLibrary\obj\Debug\netcoreapp2.0\BankTranfertLibrary.pdb
